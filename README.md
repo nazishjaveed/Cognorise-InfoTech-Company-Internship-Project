@@ -1,1 +1,1 @@
-# Cognorise-InfoTech
+# Cognorise-InfoTech Company Internship Project

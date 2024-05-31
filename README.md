@@ -1,1 +1,1 @@
-# Cognorise-InfoTech Company Internship Project
+# Cognorise-InfoTech Company Artiicial Intelligence  Internship Project
